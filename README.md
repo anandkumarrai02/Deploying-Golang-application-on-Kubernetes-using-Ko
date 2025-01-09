@@ -1,5 +1,8 @@
 # Deploying Golang application on Kubernetes using Ko(Easy Go Containers)
 
+![Alt text](https://github.com/anandkumarrai02/Deploying-Golang-application-on-Kubernetes-using-Ko/blob/main/go_proj.jpg)
+
+
 ## Building the Go application 
 - Using Dockerfile
 - Using Ko
